@@ -1,5 +1,5 @@
 streamlit>=1.30
-snowflake-connector-python
-snowflake-snowpark-python
-matplotlib
+matplotlib==3.8.4
 pandas
+snowflake-snowpark-python
+snowflake-connector-python
