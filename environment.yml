@@ -1,0 +1,8 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - matplotlib=*
+  - openai=*
+  - python-dotenv=*
+  - trulens-providers-cortex=*
